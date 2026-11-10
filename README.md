@@ -96,4 +96,6 @@ source/       Originally supplied icon artwork
 
 ## License
 
-Brand assets: all rights reserved by Urbiva; use only for official Urbiva work. See [LICENSE](LICENSE). Asimovian: SIL Open Font License 1.1 (`fonts/asimovian/OFL.txt`).
+Copyright (c) 2026 the members of the team "Maximilian". All rights reserved.
+
+This repository is public so that it can be read. It is **not open source**. Use, copying, modification, distribution and training of AI systems on it are not permitted except as stated in the [Urbiva Proprietary License 1.0](LICENSE). Third-party components are listed in [NOTICE](NOTICE). Brand Assets may not be used without written permission (License, Section 6).
