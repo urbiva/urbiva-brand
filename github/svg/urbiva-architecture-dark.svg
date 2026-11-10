@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="940" viewBox="0 0 1600 940" role="img"><title>Urbiva architecture: observation, Vision, verified barriers, accessibility graph, Go, Urban, Impact; UVA-Net S10 planned</title>
+<rect width="1600" height="940" fill="#241B42"/>
+<g stroke="#2E2552" stroke-width="1" opacity="0.6">
+<line x1="0" y1="0" x2="0" y2="940"/>
+<line x1="40" y1="0" x2="40" y2="940"/>
+<line x1="80" y1="0" x2="80" y2="940"/>
+<line x1="120" y1="0" x2="120" y2="940"/>
+<line x1="160" y1="0" x2="160" y2="940"/>
+<line x1="200" y1="0" x2="200" y2="940"/>
+<line x1="240" y1="0" x2="240" y2="940"/>
+<line x1="280" y1="0" x2="280" y2="940"/>
+<line x1="320" y1="0" x2="320" y2="940"/>
+<line x1="360" y1="0" x2="360" y2="940"/>
+<line x1="400" y1="0" x2="400" y2="940"/>
+<line x1="440" y1="0" x2="440" y2="940"/>
+<line x1="480" y1="0" x2="480" y2="940"/>
+<line x1="520" y1="0" x2="520" y2="940"/>
+<line x1="560" y1="0" x2="560" y2="940"/>
+<line x1="600" y1="0" x2="600" y2="940"/>
+<line x1="640" y1="0" x2="640" y2="940"/>
+<line x1="680" y1="0" x2="680" y2="940"/>
+<line x1="720" y1="0" x2="720" y2="940"/>
+<line x1="760" y1="0" x2="760" y2="940"/>
+<line x1="800" y1="0" x2="800" y2="940"/>
+<line x1="840" y1="0" x2="840" y2="940"/>
+<line x1="880" y1="0" x2="880" y2="940"/>
+<line x1="920" y1="0" x2="920" y2="940"/>
+<line x1="960" y1="0" x2="960" y2="940"/>
+<line x1="1000" y1="0" x2="1000" y2="940"/>
+<line x1="1040" y1="0" x2="1040" y2="940"/>
+<line x1="1080" y1="0" x2="1080" y2="940"/>
+<line x1="1120" y1="0" x2="1120" y2="940"/>
+<line x1="1160" y1="0" x2="1160" y2="940"/>
+<line x1="1200" y1="0" x2="1200" y2="940"/>
+<line x1="1240" y1="0" x2="1240" y2="940"/>
+<line x1="1280" y1="0" x2="1280" y2="940"/>
+<line x1="1320" y1="0" x2="1320" y2="940"/>
+<line x1="1360" y1="0" x2="1360" y2="940"/>
+<line x1="1400" y1="0" x2="1400" y2="940"/>
+<line x1="1440" y1="0" x2="1440" y2="940"/>
+<line x1="1480" y1="0" x2="1480" y2="940"/>
+<line x1="1520" y1="0" x2="1520" y2="940"/>
+<line x1="1560" y1="0" x2="1560" y2="940"/>
+<line x1="1600" y1="0" x2="1600" y2="940"/>
+<line x1="0" y1="0" x2="1600" y2="0"/>
+<line x1="0" y1="40" x2="1600" y2="40"/>
+<line x1="0" y1="80" x2="1600" y2="80"/>
+<line x1="0" y1="120" x2="1600" y2="120"/>
+<line x1="0" y1="160" x2="1600" y2="160"/>
+<line x1="0" y1="200" x2="1600" y2="200"/>
+<line x1="0" y1="240" x2="1600" y2="240"/>
+<line x1="0" y1="280" x2="1600" y2="280"/>
+<line x1="0" y1="320" x2="1600" y2="320"/>
+<line x1="0" y1="360" x2="1600" y2="360"/>
+<line x1="0" y1="400" x2="1600" y2="400"/>
+<line x1="0" y1="440" x2="1600" y2="440"/>
+<line x1="0" y1="480" x2="1600" y2="480"/>
+<line x1="0" y1="520" x2="1600" y2="520"/>
+<line x1="0" y1="560" x2="1600" y2="560"/>
+<line x1="0" y1="600" x2="1600" y2="600"/>
+<line x1="0" y1="640" x2="1600" y2="640"/>
+<line x1="0" y1="680" x2="1600" y2="680"/>
+<line x1="0" y1="720" x2="1600" y2="720"/>
+<line x1="0" y1="760" x2="1600" y2="760"/>
+<line x1="0" y1="800" x2="1600" y2="800"/>
+<line x1="0" y1="840" x2="1600" y2="840"/>
+<line x1="0" y1="880" x2="1600" y2="880"/>
+<line x1="0" y1="920" x2="1600" y2="920"/>
+</g>
+<text x="80" y="96" font-family="Manrope" font-size="44" font-weight="800" fill="#F7F5F0" text-anchor="start" letter-spacing="-1" opacity="1">How Urbiva works</text>
+<text x="80" y="138" font-family="Inter" font-size="20" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">From an observation on the street to a simulated infrastructure decision. Data in the current demo comes from a sample pilot network.</text>
+<rect x="80" y="210" width="310" height="190" rx="18" fill="#2B2250" stroke="#D5FF66" stroke-width="2"/>
+<g transform="translate(104,236) scale(1.1667)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></g>
+<text x="146" y="260" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Urban Observation</text>
+<text x="104" y="300" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Resident photographs a</text>
+<text x="104" y="328" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">barrier on a segment.</text>
+<text x="104" y="356" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Photo is re-encoded,</text>
+<text x="104" y="384" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">EXIF and GPS removed.</text>
+<rect x="440" y="210" width="320" height="190" rx="18" fill="#2B2250" stroke="#D5FF66" stroke-width="2"/>
+<g transform="translate(464,236) scale(1.1667)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z"/><path d="M19 15.5l.7 1.8 1.8.7-1.8.7-.7 1.8-.7-1.8-1.8-.7 1.8-.7z"/></g>
+<text x="506" y="260" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Urbiva Vision</text>
+<text x="464" y="300" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Vision model estimate</text>
+<text x="464" y="328" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">(today: Claude vision API)</text>
+<text x="464" y="356" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">plus human confirmation.</text>
+<text x="464" y="384" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Manual fallback without AI.</text>
+<rect x="810" y="210" width="340" height="190" rx="18" fill="#2B2250" stroke="#D5FF66" stroke-width="2"/>
+<g transform="translate(834,236) scale(1.1667)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></g>
+<text x="876" y="260" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Verified Barrier Data</text>
+<text x="834" y="300" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Reports: unverified,</text>
+<text x="834" y="328" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">AI estimate, confirmed.</text>
+<text x="834" y="356" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Planner reviews in</text>
+<text x="834" y="384" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Urbiva Urban.</text>
+<rect x="1200" y="210" width="320" height="190" rx="18" fill="#2B2250" stroke="#D5FF66" stroke-width="2"/>
+<g transform="translate(1224,236) scale(1.1667)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2z"/><path d="M9 4v14M15 6v14"/></g>
+<text x="1266" y="260" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Accessibility Graph</text>
+<text x="1224" y="300" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Nodes, segments, barriers.</text>
+<text x="1224" y="328" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Passability per profile:</text>
+<text x="1224" y="356" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">ok, uncertain, unknown,</text>
+<text x="1224" y="384" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">blocked.</text>
+<rect x="1200" y="500" width="320" height="170" rx="18" fill="#2B2250" stroke="#D5FF66" stroke-width="2"/>
+<g transform="translate(1224,526) scale(1.1667)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="2"/><circle cx="18" cy="5" r="2"/><path d="M8 19h7a3.5 3.5 0 0 0 0-7H9a3.5 3.5 0 0 1 0-7h7"/></g>
+<text x="1266" y="550" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Urbiva Go</text>
+<text x="1224" y="590" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Dijkstra: suitable route</text>
+<text x="1224" y="618" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">vs shortest route.</text>
+<text x="1224" y="646" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Penalties for uncertainty.</text>
+<rect x="840" y="500" width="300" height="170" rx="18" fill="#2B2250" stroke="#D5FF66" stroke-width="2"/>
+<g transform="translate(864,526) scale(1.1667)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 2.5 8 12 13l9.5-5z"/><path d="M2.5 13 12 18l9.5-5"/></g>
+<text x="906" y="550" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Urbiva Urban</text>
+<text x="864" y="590" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Metrics from the graph.</text>
+<text x="864" y="618" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Review and prioritise</text>
+<text x="864" y="646" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">confirmed barriers.</text>
+<rect x="440" y="500" width="340" height="170" rx="18" fill="#2B2250" stroke="#D5FF66" stroke-width="2"/>
+<g transform="translate(464,526) scale(1.1667)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M7 5l12 7-12 7z"/></g>
+<text x="506" y="550" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Urbiva Impact</text>
+<text x="464" y="590" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">simulateIntervention on a</text>
+<text x="464" y="618" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">graph copy: 15 min reach,</text>
+<text x="464" y="646" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">before and after.</text>
+<rect x="80" y="500" width="300" height="170" rx="18" fill="#2B2250" stroke="#A39AC4" stroke-width="2" stroke-dasharray="10 8"/>
+<g transform="translate(104,526) scale(1.1667)" fill="none" stroke="#A39AC4" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z"/><path d="M19 15.5l.7 1.8 1.8.7-1.8.7-.7 1.8-.7-1.8-1.8-.7 1.8-.7z"/></g>
+<text x="146" y="550" font-family="Manrope" font-size="24" font-weight="700" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">UVA-Net S10</text>
+<text x="104" y="590" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Planned local vision model</text>
+<text x="104" y="618" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">≤ 10M parameters.</text>
+<text x="104" y="646" font-family="Inter" font-size="17" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Not trained yet.</text>
+<line x1="390" y1="305" x2="426.0" y2="305.0" stroke="#D5FF66" stroke-width="3"/><polygon points="440,305 426.0,313.0 426.0,297.0" fill="#D5FF66"/>
+<line x1="760" y1="305" x2="796.0" y2="305.0" stroke="#D5FF66" stroke-width="3"/><polygon points="810,305 796.0,313.0 796.0,297.0" fill="#D5FF66"/>
+<line x1="1150" y1="305" x2="1186.0" y2="305.0" stroke="#D5FF66" stroke-width="3"/><polygon points="1200,305 1186.0,313.0 1186.0,297.0" fill="#D5FF66"/>
+<line x1="1360" y1="400" x2="1360.0" y2="486.0" stroke="#D5FF66" stroke-width="3"/><polygon points="1360,500 1352.0,486.0 1368.0,486.0" fill="#D5FF66"/>
+<line x1="1290" y1="400" x2="1072.8" y2="494.4" stroke="#D5FF66" stroke-width="3"/><polygon points="1060,500 1069.6,487.1 1076.0,501.8" fill="#D5FF66"/>
+<line x1="840" y1="585" x2="794.0" y2="585.0" stroke="#D5FF66" stroke-width="3"/><polygon points="780,585 794.0,577.0 794.0,593.0" fill="#D5FF66"/>
+<line x1="230" y1="500" x2="546.6" y2="404.1" stroke="#A39AC4" stroke-width="3" stroke-dasharray="8 8"/><polygon points="560,400 548.9,411.7 544.3,396.4" fill="#A39AC4"/>
+<rect x="80" y="760" width="40" height="0" stroke="#D5FF66" stroke-width="3"/><line x1="80" y1="760" x2="120" y2="760" stroke="#D5FF66" stroke-width="3"/>
+<text x="136" y="766" font-family="Inter" font-size="18" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Implemented in urbiva-app (MVP, sample pilot network)</text>
+<line x1="80" y1="800" x2="120" y2="800" stroke="#A39AC4" stroke-width="3" stroke-dasharray="8 8"/>
+<text x="136" y="806" font-family="Inter" font-size="18" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Planned research in urbiva-ai (no model, weights or results exist yet)</text>
+<text x="80" y="880" font-family="IBM Plex Mono" font-size="16" font-weight="500" fill="#D5FF66" text-anchor="start" letter-spacing="1" opacity="1">Every city. Every possibility.</text>
+</svg>

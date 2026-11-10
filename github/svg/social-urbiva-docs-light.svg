@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img"><title>urbiva-docs: social preview</title>
+<rect width="1280" height="640" fill="#F7F5F0"/>
+<g stroke="#E9E4DA" stroke-width="1" opacity="0.8">
+<line x1="0" y1="0" x2="0" y2="640"/>
+<line x1="40" y1="0" x2="40" y2="640"/>
+<line x1="80" y1="0" x2="80" y2="640"/>
+<line x1="120" y1="0" x2="120" y2="640"/>
+<line x1="160" y1="0" x2="160" y2="640"/>
+<line x1="200" y1="0" x2="200" y2="640"/>
+<line x1="240" y1="0" x2="240" y2="640"/>
+<line x1="280" y1="0" x2="280" y2="640"/>
+<line x1="320" y1="0" x2="320" y2="640"/>
+<line x1="360" y1="0" x2="360" y2="640"/>
+<line x1="400" y1="0" x2="400" y2="640"/>
+<line x1="440" y1="0" x2="440" y2="640"/>
+<line x1="480" y1="0" x2="480" y2="640"/>
+<line x1="520" y1="0" x2="520" y2="640"/>
+<line x1="560" y1="0" x2="560" y2="640"/>
+<line x1="600" y1="0" x2="600" y2="640"/>
+<line x1="640" y1="0" x2="640" y2="640"/>
+<line x1="680" y1="0" x2="680" y2="640"/>
+<line x1="720" y1="0" x2="720" y2="640"/>
+<line x1="760" y1="0" x2="760" y2="640"/>
+<line x1="800" y1="0" x2="800" y2="640"/>
+<line x1="840" y1="0" x2="840" y2="640"/>
+<line x1="880" y1="0" x2="880" y2="640"/>
+<line x1="920" y1="0" x2="920" y2="640"/>
+<line x1="960" y1="0" x2="960" y2="640"/>
+<line x1="1000" y1="0" x2="1000" y2="640"/>
+<line x1="1040" y1="0" x2="1040" y2="640"/>
+<line x1="1080" y1="0" x2="1080" y2="640"/>
+<line x1="1120" y1="0" x2="1120" y2="640"/>
+<line x1="1160" y1="0" x2="1160" y2="640"/>
+<line x1="1200" y1="0" x2="1200" y2="640"/>
+<line x1="1240" y1="0" x2="1240" y2="640"/>
+<line x1="1280" y1="0" x2="1280" y2="640"/>
+<line x1="0" y1="0" x2="1280" y2="0"/>
+<line x1="0" y1="40" x2="1280" y2="40"/>
+<line x1="0" y1="80" x2="1280" y2="80"/>
+<line x1="0" y1="120" x2="1280" y2="120"/>
+<line x1="0" y1="160" x2="1280" y2="160"/>
+<line x1="0" y1="200" x2="1280" y2="200"/>
+<line x1="0" y1="240" x2="1280" y2="240"/>
+<line x1="0" y1="280" x2="1280" y2="280"/>
+<line x1="0" y1="320" x2="1280" y2="320"/>
+<line x1="0" y1="360" x2="1280" y2="360"/>
+<line x1="0" y1="400" x2="1280" y2="400"/>
+<line x1="0" y1="440" x2="1280" y2="440"/>
+<line x1="0" y1="480" x2="1280" y2="480"/>
+<line x1="0" y1="520" x2="1280" y2="520"/>
+<line x1="0" y1="560" x2="1280" y2="560"/>
+<line x1="0" y1="600" x2="1280" y2="600"/>
+<line x1="0" y1="640" x2="1280" y2="640"/>
+</g>
+<g><rect x="760" y="150" width="129" height="70" rx="12" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/>
+<text x="778.0" y="193" font-family="Manrope" font-size="22" font-weight="700" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">Vision</text>
+<rect x="913" y="150" width="129" height="70" rx="12" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/>
+<text x="931.3333333333334" y="193" font-family="Manrope" font-size="22" font-weight="700" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">Graph</text>
+<rect x="1067" y="150" width="129" height="70" rx="12" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/>
+<text x="1084.6666666666667" y="193" font-family="Manrope" font-size="22" font-weight="700" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">Go</text>
+<rect x="913" y="280" width="129" height="70" rx="12" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/>
+<text x="931.3333333333334" y="323" font-family="Manrope" font-size="22" font-weight="700" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">Urban</text>
+<rect x="1067" y="280" width="129" height="70" rx="12" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/>
+<text x="1084.6666666666667" y="323" font-family="Manrope" font-size="22" font-weight="700" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">Impact</text>
+<line x1="889" y1="185" x2="913" y2="185" stroke="#7966EC" stroke-width="3"/>
+<line x1="1043" y1="185" x2="1067" y2="185" stroke="#7966EC" stroke-width="3"/>
+<line x1="978" y1="220" x2="978" y2="280" stroke="#7966EC" stroke-width="3"/>
+<line x1="1043" y1="315" x2="1067" y2="315" stroke="#7966EC" stroke-width="3"/>
+<line x1="760" y1="440" x2="1174" y2="440" stroke="#6E6680" stroke-width="6" stroke-linecap="round" opacity="0.45"/>
+<line x1="760" y1="460" x2="1105" y2="460" stroke="#6E6680" stroke-width="6" stroke-linecap="round" opacity="0.45"/>
+<line x1="760" y1="480" x2="1036" y2="480" stroke="#6E6680" stroke-width="6" stroke-linecap="round" opacity="0.45"/>
+<line x1="760" y1="500" x2="967" y2="500" stroke="#6E6680" stroke-width="6" stroke-linecap="round" opacity="0.45"/></g>
+<rect x="0" y="0" width="720" height="640" fill="#F7F5F0" opacity="0.86"/>
+<path transform="translate(72.00,72.00) scale(0.640000)" fill="#241B42" d="M72.863,71.278 L67.205,67.983 L65.900,67.361 L46.161,78.738 L46.006,99.782 L46.099,100.000 L73.081,99.938 L73.112,71.557 Z M24.744,58.253 L6.559,68.791 L7.771,71.247 L13.242,80.976 L18.993,90.923 L19.770,92.011 L23.998,89.773 L44.327,78.085 L44.514,77.836 L44.576,71.247 L44.514,69.910 L44.265,69.599 Z M81.473,43.581 L74.915,47.342 L74.573,47.746 L74.479,70.345 L74.697,70.625 L90.208,79.546 L92.602,80.852 L92.913,80.883 L94.716,78.023 L99.689,69.506 L104.663,60.771 L106.186,57.849 L104.259,56.543 L83.649,44.607 L81.815,43.612 Z M53.000,42.151 L51.352,42.866 L48.679,44.358 L47.529,45.104 L46.596,45.912 L46.285,46.441 L46.037,47.715 L46.037,52.347 L46.099,53.093 L46.285,53.621 L47.342,54.678 L49.674,56.201 L52.596,57.694 L53.248,57.787 L54.803,57.196 L57.942,55.455 L59.030,54.740 L59.901,53.870 L60.149,53.311 L60.274,52.440 L60.336,48.617 L60.149,46.721 L59.901,46.161 L59.403,45.570 L58.533,44.887 L55.518,43.146 L53.932,42.369 Z M13.553,19.024 L13.304,19.179 L10.755,23.376 L2.300,37.986 L0.000,42.213 L24.464,56.326 L24.961,56.233 L29.189,53.963 L31.365,52.689 L31.613,52.378 L31.831,40.939 L31.831,29.593 L27.976,27.199 Z M86.447,7.896 L74.293,14.765 L62.232,21.759 L61.828,22.101 L61.703,29.997 L61.859,30.339 L81.660,41.716 L99.627,31.302 L99.751,31.085 L98.197,28.070 L88.530,11.159 L87.038,8.673 Z M33.354,0.000 L33.261,0.311 L33.416,28.629 L40.131,32.577 L40.472,32.639 L60.149,21.231 L60.336,0.155 L60.242,0.000 Z"/>
+<text x="160" y="104" font-family="IBM Plex Mono" font-size="26" font-weight="500" fill="#655A7D" text-anchor="start" letter-spacing="0" opacity="1">urbiva /</text>
+<text x="72" y="248" font-family="Manrope" font-size="76" font-weight="800" fill="#241B42" text-anchor="start" letter-spacing="-1.5" opacity="1">urbiva-docs</text>
+<text x="72" y="316" font-family="Inter" font-size="26" font-weight="400" fill="#655A7D" text-anchor="start" letter-spacing="0" opacity="1">Product specifications, architecture decisions,</text>
+<text x="72" y="354" font-family="Inter" font-size="26" font-weight="400" fill="#655A7D" text-anchor="start" letter-spacing="0" opacity="1">API documentation and engineering guides.</text>
+<rect x="72" y="520" width="154" height="36" rx="18.0" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/><text x="86" y="544.12" font-family="IBM Plex Mono" font-size="17" font-weight="500" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">Architecture</text>
+<rect x="238" y="520" width="70" height="36" rx="18.0" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/><text x="252" y="544.12" font-family="IBM Plex Mono" font-size="17" font-weight="500" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">ADRs</text>
+<rect x="320" y="520" width="101" height="36" rx="18.0" fill="#FFFFFF" stroke="#CFC8BA" stroke-width="1.5"/><text x="334" y="544.12" font-family="IBM Plex Mono" font-size="17" font-weight="500" fill="#241B42" text-anchor="start" letter-spacing="0" opacity="1">Roadmap</text>
+<text x="72" y="600" font-family="IBM Plex Mono" font-size="16" font-weight="500" fill="#241B42" text-anchor="start" letter-spacing="1" opacity="1">Every city. Every possibility.</text>
+</svg>

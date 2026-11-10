@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" role="img"><title>Urbiva Impact: Infrastructure intervention simulation</title>
+<rect x="1" y="1" width="758" height="378" rx="28" fill="#2B2250" stroke="#43386F" stroke-width="2"/>
+<rect x="40" y="40" width="72" height="72" rx="36" fill="#342A5E"/><g transform="translate(58,58) scale(1.5000)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M7 5l12 7-12 7z"/></g>
+<text x="40" y="176" font-family="Manrope" font-size="40" font-weight="800" fill="#F7F5F0" text-anchor="start" letter-spacing="-0.8" opacity="1">Urbiva Impact</text>
+<text x="40" y="218" font-family="Inter" font-size="22" font-weight="400" fill="#B9B1CE" text-anchor="start" letter-spacing="0" opacity="1">Infrastructure intervention simulation</text>
+<g transform="translate(40,252) scale(0.9167)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></g>
+<text x="74" y="270" font-family="Inter" font-size="19" font-weight="400" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">What-if on a graph copy</text>
+<g transform="translate(40,288) scale(0.9167)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></g>
+<text x="74" y="306" font-family="Inter" font-size="19" font-weight="400" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">15-minute reachability</text>
+<g transform="translate(40,324) scale(0.9167)" fill="none" stroke="#D5FF66" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></g>
+<text x="74" y="342" font-family="Inter" font-size="19" font-weight="400" fill="#F7F5F0" text-anchor="start" letter-spacing="0" opacity="1">Before and after</text>
+<rect x="570" y="44" width="123" height="30" rx="15.0" fill="#241B42" stroke="#D5FF66" stroke-width="1.5"/><text x="584" y="64.04" font-family="IBM Plex Mono" font-size="14" font-weight="500" fill="#D5FF66" text-anchor="start" letter-spacing="0" opacity="1">IMPLEMENTED</text>
+</svg>
