@@ -85,6 +85,15 @@ github/       GitHub brand kit (SVG masters, PNG renders, generator)
 source/       Originally supplied icon artwork
 ```
 
-## Licence
+## Urbiva repositories
 
-Brand assets: all rights reserved by Urbiva; use only for official Urbiva work. Asimovian: SIL Open Font License 1.1 (`fonts/asimovian/OFL.txt`).
+| Repository | Purpose |
+| --- | --- |
+| [`urbiva-app`](https://github.com/urbiva/urbiva-app) | Application: Go, Vision, Urban and Impact |
+| [`urbiva-ai`](https://github.com/urbiva/urbiva-ai) | Research setup for UVA-Net S10, a planned local vision model |
+| **urbiva-brand** | Logo package, tokens, guidelines and GitHub brand kit |
+| [`urbiva-docs`](https://github.com/urbiva/urbiva-docs) | Product specifications, architecture, decisions and roadmap |
+
+## License
+
+Brand assets: all rights reserved by Urbiva; use only for official Urbiva work. See [LICENSE](LICENSE). Asimovian: SIL Open Font License 1.1 (`fonts/asimovian/OFL.txt`).
